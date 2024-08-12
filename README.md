@@ -34,3 +34,6 @@
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> 
   <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/datadoghq/datadoghq-icon.svg" alt="datadog" width="40" height="40"/> </a> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvSingla03&show_icons=true&theme=dark&locale=en&layout=compact&theme=rose_pine" alt="DhruvSingla03" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DhruvSingla03&show_icons=true&locale=en&theme=rose_pine" alt="DhruvSingla03" /></p>
